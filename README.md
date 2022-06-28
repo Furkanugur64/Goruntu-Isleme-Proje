@@ -1,5 +1,5 @@
 
-# GÖRÜNTÜ İŞLEME PROJESİ
+# GÖRÜNTÜ İŞLEME PROJESİ 🖼️
 
 Bu Proje Visual studio 2019 kullanılarak yapılmıştır. Projede Görüntü işleme teknikleri kullanılarak işlemler yapılmıştır.Projedeki birkaç tane yöntemi örnek olması için aşağıya ekledim.
 
